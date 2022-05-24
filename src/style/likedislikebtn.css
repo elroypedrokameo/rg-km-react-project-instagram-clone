@@ -1,0 +1,26 @@
+.like-dislike-btn {
+  display: flex;
+  margin-right: 5px;
+}
+
+.like-btn {
+  margin-right: 5px;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.active-like {
+  background-color: #008CBA;
+}
+
+.active-dislike {
+  background-color: #f44336;
+}
